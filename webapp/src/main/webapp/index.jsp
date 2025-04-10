@@ -58,9 +58,13 @@
                 <label for="exampleInputPassword1" class="form-label mt-4">Password</label>
                 <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password" autocomplete="off">
             </div>
+            <div>
+                <label for="exampleInputPassword1" class="form-label mt-4">Repeat Password</label>
+                <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password" autocomplete="off">
+            </div>
             <br><b>
-                <button type="submit" class="btn btn-primary">Submit</button>
-                <button type="reset" class="btn btn-warning">Submit</button>
+                <button type="submit" class="btn btn-primary"><i class="fa-solid fa-floppy-disk"></i> Submit</button>
+                <button type="reset" class="btn btn-warning"><i class="fa-solid fa-rotate-left"></i> Reset</button>
             </b>
         </fieldset>
     </form>
