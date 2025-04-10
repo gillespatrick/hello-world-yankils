@@ -66,6 +66,10 @@
                 <button type="submit" class="btn btn-primary"><i class="fa-solid fa-floppy-disk"></i> Submit</button>
                 <button type="reset" class="btn btn-warning"><i class="fa-solid fa-rotate-left"></i> Reset</button>
             </b>
+            <br> <br>
+            <a href="#"><i class="fa-solid fa-user"></i> Sign In ?</a>
+            <br> 
+            <a href="#"> Help !</a>
         </fieldset>
     </form>
 
