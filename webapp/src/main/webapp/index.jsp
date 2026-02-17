@@ -33,7 +33,7 @@
 </nav><br><br>
 
 
-<center><H1><b>REGISTRATION USER</b></H1></center>
+<center><H1><b>REGISTRATION NEW USER</b></H1></center>
 <hr>
 <br><br><br>
 
